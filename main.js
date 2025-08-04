@@ -17,7 +17,7 @@ novoElemento.style.textAlign = 'center';
 novoElemento.style.borderRadius = '10px';
 novoElemento.style.fontFamily = 'Arial';
 
-// ➕ Conteúdo extra criado só com JavaScript
+// Conteúdo extra criado só com JavaScript
 let paragrafo = document.createElement('p');
 paragrafo.innerText = 'Isso foi criado totalmente com JavaScript!';
 paragrafo.style.fontSize = '20px';
